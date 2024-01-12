@@ -10,4 +10,5 @@ Suppose I want 23= be <br>
 So backtracking will help me to give up 2=a and follow the next match 2=b <br>
 Then it will follow the next level b, gives up 3=d and follow the next match 3=e <br>
 
+<img src=https://github.com/Mahadi2478/Phone-keypad-backtracking/blob/main/backtracking2.png>
 
